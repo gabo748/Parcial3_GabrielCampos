@@ -31,10 +31,11 @@ Esta pantalla ofrece una introducción visual a la aplicación mediante una seri
 - Los botones "Anterior" y "Siguiente/Empezar" están centrados en la parte inferior para una navegación fluida y fácil acceso.
 
 ### Pantalla de Inicio (`HomeScreen.kt`)
-La `HomeScreen` proporciona opciones para:
-1. Ver fotos y videos.
-2. Capturar una foto.
-3. Grabar un video.
+
+
+https://github.com/user-attachments/assets/1b56f6f5-b080-40d7-b42d-804e40ed9017
+
+
 
 #### Funciones Clave
 - `HomeScreen`: Contiene tres tarjetas (`HomeScreenCard`) que representan las funcionalidades clave de la app.
