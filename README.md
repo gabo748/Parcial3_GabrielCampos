@@ -1,4 +1,4 @@
-# Android Photo & Video App
+# Android GabCam (Parcial Gabriel Campos)
 
 ## Descripción General
 Esta aplicación de Android permite a los usuarios capturar fotos, grabar videos y visualizar el contenido almacenado en su galería. La interfaz se ha diseñado para ofrecer una experiencia atractiva e intuitiva, utilizando **Jetpack Compose** para construir una UI moderna y con animaciones fluidas. A través de un proceso de **OnBoarding**, el usuario recibe una introducción a las funciones de la app, y en la pantalla de inicio puede seleccionar rápidamente entre ver fotos y videos, tomar fotos o grabar videos.
