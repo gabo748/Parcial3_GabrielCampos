@@ -48,7 +48,11 @@ https://github.com/user-attachments/assets/1b56f6f5-b080-40d7-b42d-804e40ed9017
 ### Pantalla de Captura de Fotos (`PhotoScreen.kt`)
 La pantalla `PhotoScreen` utiliza **CameraX** para tomar fotos y almacenarlas en la galería del dispositivo.
 
+https://github.com/user-attachments/assets/4d8e2a10-728f-4e12-9d44-bef53b81aae1
+
 #### Funciones Clave
+
+
 - `PhotoScreen`: Inicializa la cámara y permite al usuario capturar fotos.
 - `PhotoControls`: Controles de la cámara (captura de foto, cambio de cámara y activación de flash).
 - `CameraViewModel`: Administra la lógica para almacenar fotos en la galería y manejar el estado de la cámara.
