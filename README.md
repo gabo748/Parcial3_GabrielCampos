@@ -64,6 +64,12 @@ https://github.com/user-attachments/assets/4d8e2a10-728f-4e12-9d44-bef53b81aae1
 ### Pantalla de Grabación de Video (`VideoScreen.kt`)
 La pantalla `VideoScreen` permite la grabación de videos y almacenamiento en la galería.
 
+
+https://github.com/user-attachments/assets/81f67974-9d3c-4698-9d28-c50d8433a471
+
+
+
+
 #### Funciones Clave
 - `VideoScreen`: Administra la configuración de **CameraX** para grabar videos, ofreciendo opciones de inicio y parada de grabación.
 - `VideoControls`: Controles de grabación de video, incluyendo opciones para cambiar de cámara y activar el flash.
